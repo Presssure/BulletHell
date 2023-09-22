@@ -1,0 +1,46 @@
+﻿  main.cpp
+D:\Uni\Interactive 3d\Assignment_2\src\Arena.h(9,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\Arena.h(12,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\Ship.h(6,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\Asteroid.h(7,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\Asteroid.h(10,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(128,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(129,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(180,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(183,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(194,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(340,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(341,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(342,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(349,86): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(361,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(373,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(507,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(508,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(512,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(513,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(500,18): warning C4101: 'v': unreferenced local variable
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(500,15): warning C4101: 'u': unreferenced local variable
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(540,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(557,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(559,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(564,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(565,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(550,18): warning C4101: 'v': unreferenced local variable
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(550,15): warning C4101: 'u': unreferenced local variable
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(604,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(607,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(641,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(838,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(839,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(840,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(845,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(848,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(868,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(869,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(870,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(881,11): warning C4101: 'xrotrad': unreferenced local variable
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(881,20): warning C4101: 'yrotrad': unreferenced local variable
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(1031,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Interactive 3d\Assignment_2\src\main.cpp(1107,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  i3d.vcxproj -> D:\Uni\Interactive 3d\Assignment_2\i3d64dbg.exe
